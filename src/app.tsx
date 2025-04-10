@@ -10,7 +10,7 @@ export default function App() {
       root={props => (
         <MetaProvider>
           <Title>SolidStart - Basic</Title>
-          <nav>
+          <nav class="nav">
             <A href="/list">List</A>
             <A href="/progress">Progress</A>
             <A href="/fibonacci">Fibonacci</A>

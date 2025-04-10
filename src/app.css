@@ -37,3 +37,7 @@ p {
     max-width: none;
   }
 }
+
+.nav {
+  margin-bottom: 10px;
+}
